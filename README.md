@@ -1,5 +1,5 @@
 # 💫 About Me:
-"🚀 Aspiring Computer Engineer | Full-Stack Enthusiast | DSA Explorer.<br>Passionate about building scalable web applications and exploring the <br>intersection of Hardware & <br>Software.Currently diving deep into React & Java DSA."
+"🚀 Aspiring Computer Engineer | Full-Stack Enthusiast | DSA Explorer.<br>Passionate about building scalable web applications and exploring the <br>intersection of Hardware & Software.Currently diving deep into React & Java DSA."
 
 
 ## 🌐 Socials:
